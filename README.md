@@ -210,7 +210,7 @@ This program demonstrates fundamental Dart concepts:
 
 ### Code
 
-Open `bin/dart_hello_world.dart` and replace with:
+Open `hello.dart` and replace with:
 
 ```dart
 // Entry point of every Dart program
@@ -280,7 +280,7 @@ void demonstrateLists() {
 dart run
 
 # Or run specific file
-dart run bin/dart_hello_world.dart
+dart run hello.dart
 ```
 
 ### Expected Output
