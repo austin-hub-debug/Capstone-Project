@@ -2,7 +2,7 @@ void main() {
   // Simple hello world
   print('Hello, World!');
 
-  // Let's add more Dart features
+  // Let's add more Dart features here
   greetUser('Dart Developer');
   demonstrateVariables();
   demonstrateLists();
